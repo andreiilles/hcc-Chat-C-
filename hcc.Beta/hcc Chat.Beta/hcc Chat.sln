@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hcc Chat Client", "hcc Chat Client.csproj", "{E034404A-4B42-47CB-969C-6F58FBBABFAB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hcc Chat Server", "..\hcc Chat Server\hcc Chat Server.csproj", "{4829D326-01CD-4074-A08B-8351BBF74591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E034404A-4B42-47CB-969C-6F58FBBABFAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E034404A-4B42-47CB-969C-6F58FBBABFAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E034404A-4B42-47CB-969C-6F58FBBABFAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E034404A-4B42-47CB-969C-6F58FBBABFAB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4829D326-01CD-4074-A08B-8351BBF74591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4829D326-01CD-4074-A08B-8351BBF74591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4829D326-01CD-4074-A08B-8351BBF74591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4829D326-01CD-4074-A08B-8351BBF74591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1095B7C9-F70B-40BF-9904-D415AB40DFEF}
+	EndGlobalSection
+EndGlobal
